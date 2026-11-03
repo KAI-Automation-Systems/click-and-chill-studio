@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+work/
+videos/
+settings.json
+*.sqlite3*
+.env*
